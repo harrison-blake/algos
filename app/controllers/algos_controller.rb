@@ -1,0 +1,3 @@
+class AlgosController < ApplicationController
+
+end
